@@ -1,0 +1,44 @@
+INFO:root:Active threads: 8
+INFO:root:Current thread: Thread-7 (my_thread_function)
+INFO:root:Alive thread: MainThread
+INFO:root:Alive thread: IOPub
+INFO:root:Alive thread: Heartbeat
+INFO:root:Alive thread: Thread-3 (_watch_pipe_fd)
+INFO:root:Alive thread: Thread-4 (_watch_pipe_fd)
+INFO:root:Alive thread: Control
+INFO:root:Alive thread: IPythonHistorySavingThread
+INFO:root:Alive thread: Thread-2
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 9967f0b2-72e0-4550-a9cb-184bd6d3d564
+INFO:root:Thread-11 is executing.
+INFO:root:Thread-12 is executing.
+INFO:root:Thread-13 is executing.
+INFO:root:Thread-14 is executing.
+INFO:root:Thread-14 has completed.
+INFO:root:Thread-15 is executing.
+INFO:root:Thread-16 is executing.
+INFO:root:Worker thread started.
+INFO:root:Worker thread completed.
+INFO:root:Worker thread started.
+INFO:root:Worker thread completed.
+INFO:root:Thread-19 is executing.
+INFO:root:Worker thread started.
+INFO:root:Worker thread completed.
+INFO:root:Thread 1 is processing data: [1, 2, 3, 4, 5]
+INFO:root:Thread 2 is processing data: [10, 20, 30, 40, 50]
+INFO:root:Thread 1 processed data. Result: 15
+INFO:root:Thread 2 processed data. Result: 150
+INFO:root:Thread-21 is executing.
+INFO:root:Thread 1 (Squares) started.
+INFO:root:Square of 1 is 1
+INFO:root:Square of 2 is 4
+INFO:root:Square of 3 is 9
+INFO:root:Square of 4 is 16
+INFO:root:Square of 5 is 25
+INFO:root:Thread 2 (Cubes) started.
+INFO:root:Cube of 1 is 1
+INFO:root:Cube of 2 is 8
+INFO:root:Cube of 3 is 27
+INFO:root:Cube of 4 is 64
+INFO:root:Cube of 5 is 125
+INFO:root:Main thread exits.
